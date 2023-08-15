@@ -1,0 +1,19 @@
+.accordion accordion-flush {
+    text-align: center;
+}
+
+.boton {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 13px 25px;
+    
+}
+
+footer {
+    background-image: url(/img/footer.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
